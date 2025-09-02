@@ -1,3 +1,5 @@
 first change in file [old]
 second change in this file [old-old]
 change from branch master
+second change in file [old]
+third change in this file
